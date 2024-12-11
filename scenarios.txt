@@ -1,0 +1,4 @@
+ Hello, you the player are on your way home after an exhausting onslaught of monsters on your hometown. Many stragglers are still about, and the path home can get hazardous. May luck be on your side, and you may make it home safely.
+ Dragon Attack!: A dragon spots you from above and lands in front of you!
+ You find a Health Potion on the ground! It restores 20 health.
+ You've made it through the dangers of the dark forest and can finally see your home. Congratulations, it's now time to rest after such a long journey.
